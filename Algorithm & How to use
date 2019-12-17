@@ -1,0 +1,29 @@
+# PasswordValidation 
+
+Algorithm:
+  The program must be able to tell the difference between a strong password and a weak one based on
+  Lowercase letters
+    The program should also say to the user to have Lowercase letters to improve the overall strength of it
+    If user has inputted a lowercase letter then the invalidation should turn to valid 
+  Capital letters
+    The program should also say to the user to have Capital letters to improve the overall strength of it
+    If user has inputted a Upper case letter then the invalidation should turn to valid 
+  Numbers
+    Adding numbers should be a requirement when the user is creating a password so the program should say this
+    If user has inputted a numbers then the invalidation should turn to valid 
+  Symbols
+    The program should encourage users to add symbols to strengthen the password 
+    If user has inputted a symbols then the invalidation should turn to valid 
+  Length
+    Program should check to see if the password is 9 values or less
+    If less the program should tell the user to input more values towards the password
+  Remember
+    Program is suppose to remember the username by using input types
+
+
+How to use:
+1. User should enter there own username
+2. User should then make a password that meets the requirements
+3. User should then click the remember me checkbox and then click submit
+4. When taken to a new page you will see in the search bar that your username and password is displayed
+5. If you hit the back arrow you will notice that the program saves the username
